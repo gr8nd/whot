@@ -30,6 +30,7 @@ Please note that the Application utilizes third-party services that have their o
 •	Facebook SDKs
 •	Unity and IronSource SDKs
 •	Admob SDKs
+•	AppLovin
 
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
