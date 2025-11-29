@@ -8,10 +8,10 @@ The Application collects information when you download and use it. This informat
 •	The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
 •	The time spent on the Application
 •	The operating system you use on your mobile device
-•	Display name (used for multiplayer)
+•	Display name (ID) (used for multiplayer)
 
 
-The Application does not gather precise information about the location of your mobile device.
+The Application does gather precise and coarse information about the location of your mobile device, this is used for multiplayer.
 
 
 The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
@@ -27,6 +27,9 @@ Please note that the Application utilizes third-party services that have their o
 •	Google Play Services
 •	Google Analytics for Firebase
 •	Firebase Crashlytics
+•	Facebook SDKs
+•	Unity and IronSource SDKs
+•	Admob SDKs
 
 
 The Service Provider may disclose User Provided and Automatically Collected Information:
